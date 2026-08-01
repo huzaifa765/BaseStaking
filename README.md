@@ -27,6 +27,8 @@ BaseStaking is a non-custodial ETH staking protocol on Base mainnet with multipl
 - Emergency pause by owner
 - Non-custodial — your ETH, your control
 
+https://base-staking.netlify.app/
+
 ## Contract
 
 | Contract | Address |
