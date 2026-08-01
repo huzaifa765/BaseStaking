@@ -43,6 +43,13 @@ BaseStaking is a non-custodial ETH staking protocol on Base mainnet with multipl
 - Only penalty fees withdrawable
 - Emergency pause for safety
 - Open source — MIT License
+- ## Security
+
+- Non-custodial contract
+- Owner cannot access user funds
+- Only penalty fees withdrawable
+- Emergency pause for safety
+- Open source — MIT License
 [@Huzaifa_0101](https://twitter.com/Huzaifa_0101) — Active on Base since February 2024
 
 ## License
