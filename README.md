@@ -52,6 +52,12 @@ https://base-staking.netlify.app/
 - Only penalty fees withdrawable
 - Emergency pause for safety
 - Open source — MIT License
+- ## How Rewards Work
+
+- Rewards accumulate every second
+- Based on APY and time elapsed
+- Claim anytime without unstaking
+- Compounding manually by restaking
 [@Huzaifa_0101](https://twitter.com/Huzaifa_0101) — Active on Base since February 2024
 
 ## License
