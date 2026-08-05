@@ -58,6 +58,12 @@ https://base-staking.netlify.app/
 - Based on APY and time elapsed
 - Claim anytime without unstaking
 - Compounding manually by restaking
+- ## Staking Benefits
+
+- Earn passive yield on ETH
+- No KYC required
+- No minimum stake amount
+- Withdraw with single transaction
 [@Huzaifa_0101](https://twitter.com/Huzaifa_0101) — Active on Base since February 2024
 
 ## License
