@@ -64,6 +64,12 @@ https://base-staking.netlify.app/
 - No KYC required
 - No minimum stake amount
 - Withdraw with single transaction
+- ## Risk Disclosure
+
+- Smart contract risk exists
+- Early unstake incurs 10% penalty
+- Rewards depend on contract balance
+- Use at your own discretion
 [@Huzaifa_0101](https://twitter.com/Huzaifa_0101) — Active on Base since February 2024
 
 ## License
