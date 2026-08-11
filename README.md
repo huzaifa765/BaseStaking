@@ -70,6 +70,12 @@ https://base-staking.netlify.app/
 - Early unstake incurs 10% penalty
 - Rewards depend on contract balance
 - Use at your own discretion
+- ## Technical Details
+
+- Compiler: Solidity 0.8.20
+- Network: Base Mainnet
+- Optimization: Enabled 200 runs
+- License: MIT Open Source
 [@Huzaifa_0101](https://twitter.com/Huzaifa_0101) — Active on Base since February 2024
 
 ## License
