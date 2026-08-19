@@ -76,6 +76,13 @@ https://base-staking.netlify.app/
 - Network: Base Mainnet
 - Optimization: Enabled 200 runs
 - License: MIT Open Source
+- ## Staking Guide
+
+1. Connect wallet on Base Mainnet
+2. Choose lock period 30/90/180 days
+3. Enter ETH amount
+4. Confirm transaction
+5. Claim rewards anytime
 [@Huzaifa_0101](https://twitter.com/Huzaifa_0101) — Active on Base since February 2024
 
 ## License
